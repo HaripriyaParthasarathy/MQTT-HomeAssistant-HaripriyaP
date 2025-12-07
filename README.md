@@ -82,10 +82,10 @@ while True:
 
 ^.Output and Result
 Python script successfully published MQTT messages containing:
-✔ Student Name & Register Number
-✔ Temperature values
-✔ Humidity values
-✔ Light Sensor values (custom sensor)
+1.Student Name & Register Number
+2.Temperature values
+3.Humidity values
+4.Light Sensor values (custom sensor)
 
 Messages were received and verified in Home Assistant Developer Tools → MQTT → Listen to Topic.
 
